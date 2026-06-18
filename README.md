@@ -8,3 +8,7 @@
 ###
 
 <h2 align="left">Devices</h2>
+<p align="left">
+  💻 <b>PlayStation 5 cfi-1216A </b> | 16GB/685GB | Arch <br>
+  📱 <b>Samsung Galaxy Note 10+ </b> | 16GB/256GB | One Ui 4.1 <br>
+</p>
